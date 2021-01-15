@@ -1,0 +1,61 @@
+.nav
+{
+    background-image: linear-gradient(rgb(236, 83, 108),rgb(66, 64, 226));
+    text-decoration-color: blue;
+}
+h1
+{
+    text-align: center;
+    background-image: linear-gradient(rgb(122, 78, 243),rgb(221, 84, 107));
+}
+.footer
+{
+    background-color: rgb(93, 151, 228);
+    color: black;
+    font-weight: bolder;
+    height:50%;
+}
+.carousel-inner img {
+    margin: auto;
+  }
+  .book{
+      margin-right: auto;
+      width:50%;
+  }
+  .col-md-3 
+  {
+      text-align: center;
+      margin: auto;
+  }
+  .required::after {
+    content: "*";
+    position:absolute;
+    right:0px;
+    top:10px;
+   }
+   p{
+    line-height: 30px; 
+    text-align: justify;
+   }
+   .mb-0
+   {
+       margin: auto;
+       width: 60%;
+   }
+   .body{
+    background-image: linear-gradient(rgb(233, 119, 98),rgb(107, 219, 125));
+   }
+   .tabcenter{
+       text-align: center;
+       margin: auto;
+   }
+   .register,.login{
+       text-align: center;
+       background-color: rgb(75, 148, 81);
+   }
+   .info{
+    background-image: linear-gradient(rgb(122, 78, 243),rgb(238, 88, 88));
+   }
+   .search{
+       text-align: center;
+   }
